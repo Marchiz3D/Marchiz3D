@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2FF7,100:FF2D95&height=180&section=header&text=AGUNG.DEV&fontSize=50&fontColor=00F5FF&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://agung-susanto.vercel.app/_next/image?url=%2Fimages%2Fme%2Fme-retro.png&w=200&q=75" width="140" style="border-radius:50%;border:3px solid #FF2D95;" />
+<img src="./assets/profile-pixel.png" alt="Agung Profile Picture" width="140" style="border-radius:50%;border:3px solid #FF2D95;" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Architecting+Scalable+Systems;AI-Powered+Problem+Solver" alt="Typing SVG" />
 
@@ -58,12 +58,12 @@ Developed an internal WMS in Golang with a responsive frontend and RESTful API i
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Marchiz3D&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF2D95&icon_color=00F5FF&text_color=c9c9c9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marchiz3D&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF2D95&text_color=c9c9c9" />
+<img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marchiz3D&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF2D95&icon_color=00F5FF&text_color=c9c9c9" />
+<img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marchiz3D&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF2D95&text_color=c9c9c9" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Marchiz3D/Marchiz3D/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/Marchiz3D/Marchiz3D/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -80,6 +80,6 @@ Developed an internal WMS in Golang with a responsive frontend and RESTful API i
 [![Portfolio](https://img.shields.io/badge/-🗺️_Portfolio-FF2D95?style=for-the-badge&labelColor=0D0221)](https://agung-susanto.vercel.app/)
 [![Email](https://img.shields.io/badge/-📧_Email-00F5FF?style=for-the-badge&labelColor=0D0221)](mailto:agungxyz129@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:7B2FF7,100:0D0221&height=100&section=footer" width="100%"/>
+<img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:7B2FF7,100:0D0221&height=100&section=footer" width="100%"/>
 
 </div>
